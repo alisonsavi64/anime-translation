@@ -1,0 +1,5 @@
+mss
+Pillow
+easyocr
+deep_translator
+pykakasi
