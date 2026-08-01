@@ -1,0 +1,7 @@
+pyaudiowpatch
+faster-whisper
+pykakasi
+deep_translator
+numpy
+silero-vad
+anthropic
